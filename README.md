@@ -6,4 +6,4 @@ Algunas visualizaciones que estoy haciendo con el [Top10 de Netflix](https://www
 **Download Country Lists**: [TSV](/tudum/top10/data/all-weeks-countries.tsv), [Excel](/tudum/top10/data/all-weeks-countries.xlsx)  
 **Download Most Popular Lists**: [TSV](/tudum/top10/data/most-popular.tsv), [Excel](/tudum/top10/data/most-popular.xlsx)
 
-1. BumpChart
+1. [BumpChart](https://aaizemberg.github.io/netflix/bumpchart.html)
